@@ -119,9 +119,10 @@ A Python-based desktop application built to supercharge the Bizom retail intelli
 ---
 
 ## 📬 Let's Connect
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
-  <br/>
+
 <p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+  <br/>
   <em>I’m open to collaborations, freelance work, and exciting projects 🚀</em>
 </p>
 
