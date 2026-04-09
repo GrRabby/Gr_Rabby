@@ -67,7 +67,12 @@ A Python-based desktop application built to supercharge the Bizom retail intelli
 
 ---
 
+## 📊 GitHub stats
 
+![Gulam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrRabby&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrRabby&layout=compact)
+
+---
 
 ## 📬 Get in touch
 
