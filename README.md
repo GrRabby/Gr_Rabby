@@ -32,13 +32,7 @@ Currently expanding into full-stack MERN development, Android apps, AI agents, a
 ## 🛠 Tech stack
 
 ### 💬 Languages
-<p align="left">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="50" title="Python"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" title="JavaScript"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="Java"/>
-</p>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,9 +41,7 @@ Currently expanding into full-stack MERN development, Android apps, AI agents, a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend
-<p align="left">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" title="React"/>
-</p>
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -70,11 +62,7 @@ Currently expanding into full-stack MERN development, Android apps, AI agents, a
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🤖 Desktop & Automation
-<p align="left">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50" title="Automation"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="50" title="Python Desktop"/>
-</p>
+
 
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -83,17 +71,13 @@ Currently expanding into full-stack MERN development, Android apps, AI agents, a
 ![VBA](https://img.shields.io/badge/VBA_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 📱 Mobile
-<p align="left">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="50" title="Android"/>
-</p>
+
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" title="Git"/>
-</p>
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -118,7 +102,7 @@ Currently expanding into full-stack MERN development, Android apps, AI agents, a
 
 > **Python · PyQt · MySQL · Jun–Nov 2023** · *Associated with MGH Group*
 
-<img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="automation gif"/>
+
 
 A Python-based desktop application built to supercharge the Bizom retail intelligence platform. Inspired by ERP systems like SAP, it introduced:
 
