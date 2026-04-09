@@ -100,7 +100,7 @@ A Python-based desktop application built to supercharge the Bizom retail intelli
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gr_Rabby&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
