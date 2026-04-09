@@ -95,11 +95,6 @@ A Python-based desktop application built to supercharge the Bizom retail intelli
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrRabby&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrRabby&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gr_Rabby&theme=tokyonight&hide_border=true"/>
 </p>
 
