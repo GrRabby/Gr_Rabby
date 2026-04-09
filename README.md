@@ -8,6 +8,22 @@ I design and build **efficient, scalable software systems** — from automation 
 
 ---
 
+## 🚀 About me
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+My programming journey started as an **MIS Officer at MGH Group**, where I began automating repetitive tasks with scripting. What started as small tools grew into larger solutions that dramatically improved operational productivity.
+
+A key milestone was building a custom PyQt desktop application to enhance our company's international retail software (Bizom), introducing improved workflow logic and custom UI/UX — a project that launched my career in core software development.
+
+After years of corporate experience, I combined technical expertise with business insight to establish my own automation-focused business, delivering services to thousands of clients in a competitive market.
+
+Currently expanding into full-stack MERN development, Android apps, AI agents, and scalable software architecture.
+
+<br clear="right"/>
+
+---
+
 ## 🌱 Current Focus
 
 Actively expanding into modern full-stack and scalable systems:
@@ -17,28 +33,6 @@ Actively expanding into modern full-stack and scalable systems:
 * 🤖 Integrating **AI & automation** into real-world workflows
 * ☁️ Deploying and optimizing apps on **Vercel & cloud platforms**
 * 🧩 Designing **end-to-end systems** combining frontend, backend, and automation
-
----
-
-## 💡 About Me
-
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-My journey into software development started in a **real business environment**, not just tutorials.
-
-As an **MIS Officer at MGH Group**, I began solving operational problems through automation. What started as small scripts quickly evolved into **full-scale tools that improved productivity across workflows**.
-
-A turning point in my career was building a **PyQt desktop application** to extend the Bizom retail platform — introducing smarter workflows, better UI/UX, and ERP-like logic.
-
-Today, I combine:
-
-* 🧠 **Business understanding**
-* ⚙️ **Automation expertise**
-* 💻 **Full-stack development skills**
-
-…to build impactful software used by **thousands of users**.
-
-<br clear="right"/>
 
 ---
 
@@ -87,14 +81,14 @@ Today, I combine:
 
 ---
 
-## 💼 What I Do Best
+## 💼 What I do best
 
-| Area              | Description                                                        |
-| ----------------- | ------------------------------------------------------------------ |
-| ⚙️ Full-Stack Web | React + Next.js frontends, Node APIs, scalable architecture        |
-| 🤖 Automation     | Bots, scrapers, workflow automation, business process optimization |
-| 🖥 Desktop Apps   | PyQt/Tkinter apps with ERP-like workflows and multithreading       |
-| 📱 Mobile Apps    | Native Android apps with backend integration                       |
+| Area | Description |
+|------|-------------|
+| ⚙ Full-Stack Web (MERN) | React frontends, Node/Express APIs, MongoDB — deployed on Vercel with auth & REST integration |
+| 🤖 Python Automation | Workflow automation, bots, scrapers, and data processing scripts |
+| 🖥 Desktop Applications | PyQt/Tkinter apps with ERP-inspired workflow design and multithreading |
+| 📱 Android Development | Native Android apps with Java — UI to API integration |
 
 ---
 
@@ -102,13 +96,13 @@ Today, I combine:
 
 **Python · PyQt · MySQL**
 
-A desktop automation system built to enhance retail operations:
+A Python-based desktop application built to supercharge the Bizom retail intelligence platform. Inspired by ERP systems like SAP, it introduced:
 
-* 📦 Smart return & expiry workflow with barcode tracking
-* 📊 Centralized bulk order & load sheet management
-* ⚙️ ERP-inspired workflow improvements
-* 🔄 Automated calculations & data handling
-* 🧩 Custom UI/UX tailored for real business use
+* 📦 Dynamic expiry return window with barcode-based form tracking
+* 📊 Centralized control panel for bulk order fulfillment & load sheet generation
+* ⚙️ Single-entry warehouse selection applied across all return transactions
+* 🔄 Automated return value fetching for loadout summaries
+* 📦 Non-salable SKU management
 
 ---
 
@@ -125,7 +119,8 @@ A desktop automation system built to enhance retail operations:
 ---
 
 ## 📬 Let's Connect
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+  <br/>
 <p align="center">
   <em>I’m open to collaborations, freelance work, and exciting projects 🚀</em>
 </p>
